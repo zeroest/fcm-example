@@ -1,0 +1,3 @@
+
+rootProject.name = "push_basic"
+include ':app'

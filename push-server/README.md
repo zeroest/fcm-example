@@ -4,9 +4,9 @@
 
 [Code Reference](https://github.com/imaginalis/spring-boot-fcm-push-notifications)
 
-[Firebase Doc](https://firebase.google.com/docs/cloud-messaging/server)
+[[Doc] FCM Server](https://firebase.google.com/docs/cloud-messaging/server)
 
-[FCM message spec](https://firebase.google.com/docs/reference/fcm/rest/v1/projects.messages)
+[[Doc] FCM message spec](https://firebase.google.com/docs/reference/fcm/rest/v1/projects.messages)
 
 [[MVN] Firebase Admin](https://mvnrepository.com/artifact/com.google.firebase/firebase-admin)
 
